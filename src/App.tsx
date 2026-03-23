@@ -25,7 +25,7 @@ const content = {
     { id: 'cortes', title: 'Cortes e preparo', icon: ChefHat },
     { id: 'conservacao', title: 'Conservação', icon: Leaf },
     { id: 'molhos', title: 'Molhos simples', icon: Droplets },
-    { id: 'custo', title: 'Quanto vou gastar', icon: DollarSign },
+    { id: 'custo', title: 'Meus gastos', icon: DollarSign },
     { id: 'salada-dia', title: 'Salada do dia 🥗', icon: Salad },
     { id: 'rotina', title: 'Rotina da semana ⏱️', icon: Calendar },
     { id: 'lista-compras', title: 'Lista de compras 🛒', icon: ShoppingCart },
@@ -59,7 +59,7 @@ const content = {
       body: 'Equilibre o sabor com estas 5 variações:\n1. CLÁSSICO: Azeite + Limão + Sal (Para o dia a dia)\n2. VINAGRETE: Azeite + Vinagre + Sal + Orégano (Clássico)\n3. CREMOSO: Iogurte natural + Limão + Ervas (Para proteínas)\n4. AGRIDOCE: Azeite + Mostarda + Mel (Dá um toque especial)\n5. SABOR FORTE: Azeite + Alho amassado + Sal (Para quem ama alho)\n\n💡 Dica:\nSempre misture o molho apenas na hora de comer!'
     },
     'custo': {
-      title: 'Quanto vou gastar',
+      title: 'Meus gastos',
       body: 'Exemplo de lista semanal econômica:\n- Alface, tomate, cenoura, pepino, cebola, ovos.\n\n💰 Média: R$25 a R$40 por semana.\n\nComparação:\nComer fora (1x): R$25+\nComer em casa (semana toda): R$30\n\n💡 Reflexão:\nComer saudável em casa é um investimento, não um gasto.'
     },
     'salada-dia': {
